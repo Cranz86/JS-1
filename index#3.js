@@ -6,3 +6,5 @@ const myCity = {
 console.log(myCity)
 myCity.city = 'Moscow'
 console.log(myCity)
+myCity['tower'] = 'Kreml' // dlya virajeniy coda
+console.log(myCity)
